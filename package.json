@@ -5,6 +5,7 @@
     "main": "index.ts",
     "scripts": {
         "reto6": "nodemon ./reto06/index.ts",
+        "reto9": "nodemon ./reto9/index.ts",
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "author": "",
