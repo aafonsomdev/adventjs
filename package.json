@@ -7,6 +7,7 @@
         "reto6": "nodemon ./reto06/index.ts",
         "reto9": "nodemon ./reto9/index.ts",
         "reto10": "nodemon ./reto10/index.ts",
+        "reto12": "nodemon ./reto12/index.ts",
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "author": "",
